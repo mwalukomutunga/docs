@@ -11,4 +11,4 @@
 - Powerful reporting
 
 [Site](https://staging.crionline.africa/)
-[Documentation](intro)
+[Documentation](topics)
